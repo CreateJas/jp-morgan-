@@ -1,4 +1,4 @@
-#task-1
+#TASK1
 Set up your local dev environment by downloading the necessary repository, files, tools and dependencies
 Fix the broken client datafeed script in the repository by making the required adjustments to it.
 Push your changes and submit your work.
